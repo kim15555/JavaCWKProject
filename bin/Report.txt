@@ -1,0 +1,27 @@
+Competitors:
+Competitor number 100, name John Doe, country USA.
+John Doe is a 100,John Doe,NOVICE,25,USA,4,3,5,4,4 aged 25 and has an overall score of 4.0.
+Competitor number 101, name Jane Smith, country Canada.
+Jane Smith is a 101,Jane Smith,ADVANCED,30,Canada,5,5,5,5,5 aged 30 and has an overall score of 5.0.
+Competitor number 102, name Bob Johnson, country UK.
+Bob Johnson is a 102,Bob Johnson,INTERMEDIATE,22,UK,3,4,3,2,4 aged 22 and has an overall score of 3.0.
+Competitor number 103, name Alice Brown, country Australia.
+Alice Brown is a 103,Alice Brown,NOVICE,28,Australia,4,3,4,4,3 aged 28 and has an overall score of 3.6.
+Competitor number 104, name Chris Evans, country Germany.
+Chris Evans is a 104,Chris Evans,ADVANCED,32,Germany,5,5,4,5,5 aged 32 and has an overall score of 5.0.
+Competitor number 105, name Sara Lee, country France.
+Sara Lee is a 105,Sara Lee,INTERMEDIATE,26,France,4,3,4,4,5 aged 26 and has an overall score of 4.0.
+Competitor number 106, name Michael Wang, country China.
+Michael Wang is a 106,Michael Wang,NOVICE,24,China,3,2,3,4,2 aged 24 and has an overall score of 2.8.
+Competitor number 107, name Emily Kim, country South Korea.
+Emily Kim is a 107,Emily Kim,ADVANCED,29,South Korea,5,4,5,5,4 aged 29 and has an overall score of 5.0.
+Competitor number 108, name David Chen, country Japan.
+David Chen is a 108,David Chen,INTERMEDIATE,27,Japan,4,3,4,4,3 aged 27 and has an overall score of 4.0.
+Highest Scoring Competitor: Competitor number 101, name Jane Smith, country Canada.
+Jane Smith is a 101,Jane Smith,ADVANCED,30,Canada,5,5,5,5,5 aged 30 and has an overall score of 5.0.
+Average Score: 4.044444444444445
+Score Frequency:
+Score 2: 3 times
+Score 3: 10 times
+Score 4: 18 times
+Score 5: 14 times
